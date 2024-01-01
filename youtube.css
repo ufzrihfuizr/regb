@@ -1,0 +1,141 @@
+.fll{
+    width: 600px;
+    border-radius: 800px;
+   text-align: ;
+   height:40px;
+   border : 1px solid #ccc   ;
+}
+.bateau{
+    top:-50px;
+}
+.onizuka{
+    position: relative;
+    top: -115px;
+}
+section{
+    position: relative;
+    left:80px;
+    height: 150px;
+    width: 930px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color: grey;
+}
+section:hover{
+    background-color: RGB(251,216,99);
+}
+.appar{
+ width:10px;
+ 
+   
+}
+.moroco{
+    position: relative;
+    left: 1050px;
+    top:-1020px;
+}
+.yoyo{
+    display:none;
+}
+.birus{
+    display:inline ;
+}
+.vivi{
+    position: relative ;
+    top:-1300px;
+}
+.ocho{background-color: red;
+z-index: 2;
+height: 1000px;
+width: 600px;
+position: absolute;
+left:500px;}
+.fll1{
+    width: 40px ;
+
+    border-radius: 400000px;
+    height: 40px;
+    border: 1px solid #ccc ;
+}
+.tomber{
+    position:relative;
+    left:260px;
+    top:-20px;
+}
+.relever{
+    position:relative;
+    left:1400px;
+    top:-12px;
+}
+.auto{
+    position: relative;
+    top: -65px;
+    left: 255px;
+}
+
+.yess{
+    width: 100%;
+    position:relative;
+    left: 240px;
+    top: 15px;
+}
+.iris{
+        border-radius: 25px;
+        width: 400px;
+        
+}
+.iris1{
+    border-radius: 25px;
+    width: 240px ;
+}
+h1{
+    font-size: 30px;
+}
+.cache{
+   
+    position: relative;
+    left:240px ;
+    top:-1250px;
+}
+.yess4 {
+    
+	position: relative;
+    left: 190px;
+	
+	
+}
+.imm{
+    height: 2px;
+    width:2px;
+}
+.olde{
+    padding:0;
+    margin:0px;
+    height:1700px;
+    position: relative;
+    top:-1440px;
+    width: 160px;
+  
+}
+.soolking{
+    margin-left: 780px;
+    position: relative ;
+    top:-1730px ;
+}
+.riie{
+    margin-left:250px;
+    position:relative;
+    top:-1700px;
+}
+.tableau1{
+    position:relative;
+    top:-440px;
+}
+.yess5{
+    position: relative;
+    left: 125px ;
+}
+.imge{
+    position: relative;
+    left: 250px;
+}
